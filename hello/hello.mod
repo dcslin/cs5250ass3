@@ -1,2 +1,2 @@
-/home/shicong/cs5250ass3/hello.o
+/home/shicong/cs5250ass3/hello/hello.o
 
